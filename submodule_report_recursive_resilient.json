@@ -1,0 +1,2073 @@
+{
+  "repositories": {
+    "https://github.com/tellnobody1/sublime-purescript-syntax.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-purescript-syntax",
+      "url": "https://github.com/tellnobody1/sublime-purescript-syntax.git",
+      "submodules": []
+    },
+    "https://github.com/cool-japan/scirs.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/scirs",
+      "url": "https://github.com/cool-japan/scirs.git",
+      "submodules": []
+    },
+    "https://github.com/braver/SublimeSass.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeSass",
+      "url": "https://github.com/braver/SublimeSass.git",
+      "submodules": []
+    },
+    "https://github.com/modelcontextprotocol/specification.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/mcp-attr/external/modelcontextprotocol-specification",
+      "url": "https://github.com/modelcontextprotocol/specification.git",
+      "submodules": []
+    },
+    "https://huggingface.co/datasets/h4/libminizinc": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/minizinc_data/huggingface",
+      "url": "https://huggingface.co/datasets/h4/libminizinc",
+      "submodules": []
+    },
+    "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/minizinc-jll",
+      "url": "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl",
+      "submodules": []
+    },
+    "https://github.com/hwchen/keyring-rs": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/keyring",
+      "url": "https://github.com/hwchen/keyring-rs",
+      "submodules": []
+    },
+    "https://github.com/Phidica/sublime-fish.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-fish",
+      "url": "https://github.com/Phidica/sublime-fish.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/siumai.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/siumai",
+      "url": "https://github.com/meta-introspector/siumai.git",
+      "submodules": []
+    },
+    "https://github.com/BartoszMilewski/DaoFP": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/DaoFP",
+      "url": "https://github.com/BartoszMilewski/DaoFP",
+      "submodules": []
+    },
+    "https://github.com/rust-lang/cargo.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/cargo-platform",
+      "url": "https://github.com/rust-lang/cargo.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/solfunmeme": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/solfunmeme",
+      "url": "https://github.com/meta-introspector/solfunmeme",
+      "submodules": []
+    },
+    "https://github.com/dncrews/GraphQL-SublimeText3.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/GraphQL-SublimeText3",
+      "url": "https://github.com/dncrews/GraphQL-SublimeText3.git",
+      "submodules": []
+    },
+    "https://github.com/ramosbugs/oauth2-rs": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/oauth2",
+      "url": "https://github.com/ramosbugs/oauth2-rs",
+      "submodules": []
+    },
+    "https://github.com/euler0/sublime-glsl.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-glsl",
+      "url": "https://github.com/euler0/sublime-glsl.git",
+      "submodules": []
+    },
+    "https://github.com/LegNeato/asciicast-rs.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/asciicast",
+      "url": "https://github.com/LegNeato/asciicast-rs.git",
+      "submodules": []
+    },
+    "https://github.com/jqlang/jq.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq",
+      "url": "https://github.com/jqlang/jq.git",
+      "submodules": [
+        {
+          "name": "vendor/oniguruma",
+          "path": "vendor/oniguruma",
+          "url": "https://github.com/kkos/oniguruma.git",
+          "branch": null
+        }
+      ]
+    },
+    "https://github.com/beefsack/GDScript-sublime.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/GDScript-sublime",
+      "url": "https://github.com/beefsack/GDScript-sublime.git",
+      "submodules": []
+    },
+    "https://github.com/JuliaEditorSupport/Julia-sublime.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Julia-sublime",
+      "url": "https://github.com/JuliaEditorSupport/Julia-sublime.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/git-submodules-rs-nix.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules",
+      "url": "https://github.com/meta-introspector/git-submodules-rs-nix.git",
+      "submodules": [
+        {
+          "name": "git-submodule-tools",
+          "path": "git-submodule-tools",
+          "url": "https://github.com/kollerma/git-submodule-tools",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/git-submodule-tools",
+            "url": "https://github.com/meta-introspector/git-submodule-tools.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "gitoxide",
+          "path": "gitoxide",
+          "url": "https://github.com/GitoxideLabs/gitoxide",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/gitoxide",
+            "url": "https://github.com/meta-introspector/gitoxide.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "magoo",
+          "path": "magoo",
+          "url": "https://github.com/Pistonite/magoo",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/magoo",
+            "url": "https://github.com/meta-introspector/magoo.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "naersk",
+          "path": "naersk",
+          "url": "https://github.com/nix-community/naersk",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/naersk",
+            "url": "https://github.com/meta-introspector/naersk.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "submod",
+          "path": "submod",
+          "url": "https://github.com/bashandbone/submod",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/submod",
+            "url": "https://github.com/meta-introspector/submod.git",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://github.com/elm-community/SublimeElmLanguageSupport.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeElmLanguageSupport",
+      "url": "https://github.com/elm-community/SublimeElmLanguageSupport.git",
+      "submodules": []
+    },
+    "https://github.com/XAMPPRocky/octocrab.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/octocrab",
+      "url": "https://github.com/XAMPPRocky/octocrab.git",
+      "submodules": []
+    },
+    "https://github.com/jmikedupont2/ai-agent-terraform/": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/ai-agent-terraform",
+      "url": "https://github.com/jmikedupont2/ai-agent-terraform/",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/aichat": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat",
+      "url": "https://github.com/meta-introspector/aichat",
+      "submodules": [
+        {
+          "name": "oauth_review/r-google-oauth2",
+          "path": "oauth_review/r-google-oauth2",
+          "url": "https://github.com/mass10/r-google-oauth2/",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat/oauth_review/r-google-oauth2",
+            "url": "https://github.com/mass10/r-google-oauth2/",
+            "submodules": []
+          }
+        },
+        {
+          "name": "oauth_review/rs-gapi-oauth",
+          "path": "oauth_review/rs-gapi-oauth",
+          "url": "https://github.com/meta-introspector/rs-gapi-oauth",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat/oauth_review/rs-gapi-oauth",
+            "url": "https://github.com/meta-introspector/rs-gapi-oauth",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://huggingface.co/datasets/introspector/meta-memes": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/data",
+      "url": "https://huggingface.co/datasets/introspector/meta-memes",
+      "submodules": []
+    },
+    "https://github.com/oli-obk/cargo_metadata": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/cargo_metadata",
+      "url": "https://github.com/oli-obk/cargo_metadata",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/lattice-introspector": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector",
+      "url": "https://github.com/meta-introspector/lattice-introspector",
+      "submodules": [
+        {
+          "name": "data",
+          "path": "data",
+          "url": "https://huggingface.co/datasets/introspector/meta-memes",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/data",
+            "url": "https://huggingface.co/datasets/introspector/meta-memes",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/DaoFP",
+          "path": "vendor/DaoFP",
+          "url": "https://github.com/meta-introspector/DaoFP",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/DaoFP",
+            "url": "https://github.com/BartoszMilewski/DaoFP",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/abi_stable_crates",
+          "path": "vendor/abi_stable_crates",
+          "url": "https://github.com/meta-introspector/abi_stable_crates",
+          "branch": "master",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/abi_stable_crates",
+            "url": "https://github.com/meta-introspector/abi_stable_crates",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/ai-agent-terraform",
+          "path": "vendor/ai-agent-terraform",
+          "url": "https://github.com/jmikedupont2/ai-agent-terraform/",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/ai-agent-terraform",
+            "url": "https://github.com/jmikedupont2/ai-agent-terraform/",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/aichat",
+          "path": "vendor/aichat",
+          "url": "https://github.com/meta-introspector/aichat",
+          "branch": "feature/oauth",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat",
+            "url": "https://github.com/meta-introspector/aichat",
+            "submodules": [
+              {
+                "name": "oauth_review/r-google-oauth2",
+                "path": "oauth_review/r-google-oauth2",
+                "url": "https://github.com/mass10/r-google-oauth2/",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat/oauth_review/r-google-oauth2",
+                  "url": "https://github.com/mass10/r-google-oauth2/",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "oauth_review/rs-gapi-oauth",
+                "path": "oauth_review/rs-gapi-oauth",
+                "url": "https://github.com/meta-introspector/rs-gapi-oauth",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat/oauth_review/rs-gapi-oauth",
+                  "url": "https://github.com/meta-introspector/rs-gapi-oauth",
+                  "submodules": []
+                }
+              }
+            ]
+          }
+        },
+        {
+          "name": "vendor/bootstrap",
+          "path": "vendor/bootstrap",
+          "url": "https://github.com/meta-introspector/bootstrap",
+          "branch": "master",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/bootstrap",
+            "url": "https://github.com/meta-introspector/bootstrap",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/cloud-deployment-eliza",
+          "path": "vendor/cloud-deployment-eliza",
+          "url": "https://github.com/meta-introspector/cloud-deployment-eliza",
+          "branch": "main"
+        },
+        {
+          "name": "vendor/copper",
+          "path": "vendor/copper",
+          "url": "https://github.com/meta-introspector/copper",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/copper",
+            "url": "https://github.com/meta-introspector/copper",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/cranelift",
+          "path": "vendor/cranelift",
+          "url": "https://github.com/bytecodealliance/wasmtime.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift",
+            "url": "https://github.com/bytecodealliance/wasmtime.git",
+            "submodules": [
+              {
+                "name": "tests/spec_testsuite",
+                "path": "tests/spec_testsuite",
+                "url": "https://github.com/WebAssembly/testsuite",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/spec_testsuite",
+                  "url": "https://github.com/WebAssembly/testsuite",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "tests/wasi_testsuite/wasi-common",
+                "path": "tests/wasi_testsuite/wasi-common",
+                "url": "https://github.com/WebAssembly/wasi-testsuite.git",
+                "branch": "prod/testsuite-base",
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/wasi_testsuite/wasi-common",
+                  "url": "https://github.com/WebAssembly/wasi-testsuite.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "tests/wasi_testsuite/wasi-threads",
+                "path": "tests/wasi_testsuite/wasi-threads",
+                "url": "https://github.com/WebAssembly/wasi-threads",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/wasi_testsuite/wasi-threads",
+                  "url": "https://github.com/WebAssembly/wasi-threads",
+                  "submodules": []
+                }
+              }
+            ]
+          }
+        },
+        {
+          "name": "vendor/gen-mod-form",
+          "path": "vendor/gen-mod-form",
+          "url": "https://github.com/meta-introspector/gen-mod-form",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/gen-mod-form",
+            "url": "https://github.com/meta-introspector/gen-mod-form",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/grok-cli",
+          "path": "vendor/grok-cli",
+          "url": "https://github.com/meta-introspector/grok-cli.git",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/grok-cli",
+            "url": "https://github.com/meta-introspector/grok-cli.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/hugging-face-dataset-validator-rust",
+          "path": "vendor/hugging-face-dataset-validator-rust",
+          "url": "https://github.com/meta-introspector/hugging-face-dataset-validator-rust",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/hugging-face-dataset-validator-rust",
+            "url": "https://github.com/meta-introspector/hugging-face-dataset-validator-rust",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/intel-mkl-src",
+          "path": "vendor/intel-mkl-src",
+          "url": "https://github.com/rust-math/intel-mkl-src",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/intel-mkl-src",
+            "url": "https://github.com/rust-math/intel-mkl-src",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/libminizinc",
+          "path": "vendor/libminizinc",
+          "url": "https://github.com/meta-introspector/minizinc-introspector",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/libminizinc",
+            "url": "https://github.com/meta-introspector/minizinc-introspector",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/memkb-mcp-rust",
+          "path": "vendor/memkb-mcp-rust",
+          "url": "https://github.com/meta-introspector/memkb-mcp-rust",
+          "branch": "master",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/memkb-mcp-rust",
+            "url": "https://github.com/meta-introspector/memkb-mcp-rust",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/monomcp-rust",
+          "path": "vendor/monomcp-rust",
+          "url": "https://github.com/meta-introspector/monomcp-rust",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust",
+            "url": "https://github.com/meta-introspector/monomcp-rust",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/ragit",
+          "path": "vendor/ragit",
+          "url": "https://github.com/meta-introspector/ragit.git",
+          "branch": "feature/numerical-directory-model",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/ragit",
+            "url": "https://github.com/meta-introspector/ragit.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/rust-smallvec",
+          "path": "vendor/rust-smallvec",
+          "url": "https://github.com/meta-introspector/rust-smallvec",
+          "branch": "gemini-changes",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/rust-smallvec",
+            "url": "https://github.com/meta-introspector/rust-smallvec",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/rustc-stable-hash",
+          "path": "vendor/rustc-stable-hash",
+          "url": "https://github.com/meta-introspector/rustc-stable-hash",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/rustc-stable-hash",
+            "url": "https://github.com/meta-introspector/rustc-stable-hash",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/scirs",
+          "path": "vendor/scirs",
+          "url": "https://github.com/cool-japan/scirs.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/scirs",
+            "url": "https://github.com/cool-japan/scirs.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/simd-kernels",
+          "path": "vendor/simd-kernels",
+          "url": "https://github.com/meta-introspector/simd-kernels",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/simd-kernels",
+            "url": "https://github.com/meta-introspector/simd-kernels",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/solfunmeme-dioxus",
+          "path": "vendor/solfunmeme-dioxus",
+          "url": "https://github.com/meta-introspector/solfunmeme-dioxus",
+          "branch": "main",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/solfunmeme-dioxus",
+            "url": "https://github.com/meta-introspector/solfunmeme-dioxus",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://github.com/tree-sitter/tree-sitter.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/tree-sitter",
+      "url": "https://github.com/tree-sitter/tree-sitter.git",
+      "submodules": []
+    },
+    "https://github.com/VcamX/protobuf-syntax-highlighting.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/protobuf-syntax-highlighting",
+      "url": "https://github.com/VcamX/protobuf-syntax-highlighting.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/streamofrandom": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom",
+      "url": "https://github.com/meta-introspector/streamofrandom",
+      "submodules": [
+        {
+          "name": "2025",
+          "path": "2025",
+          "url": "https://github.com/meta-introspector/time-2025",
+          "branch": null
+        },
+        {
+          "name": "vendor/elizaos-plugins/plugin-twitter",
+          "path": "vendor/elizaos-plugins/plugin-twitter",
+          "url": "https://github.com/elizaos-plugins/plugin-twitter",
+          "branch": null
+        },
+        {
+          "name": "vendor/livestream-tiktok-plugin",
+          "path": "vendor/livestream-tiktok-plugin",
+          "url": "https://github.com/meta-introspector/livestream-tiktok-plugin",
+          "branch": null
+        },
+        {
+          "name": "vendor/twitter-plugin",
+          "path": "vendor/twitter-plugin",
+          "url": "https://github.com/meta-introspector/twitter-plugin",
+          "branch": null
+        }
+      ]
+    },
+    "https://github.com/315234/SublimeFortran.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeFortran",
+      "url": "https://github.com/315234/SublimeFortran.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/rust-smallvec": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/rust-smallvec",
+      "url": "https://github.com/meta-introspector/rust-smallvec",
+      "submodules": []
+    },
+    "https://github.com/KyleMayes/clang-sys": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/clang-sys",
+      "url": "https://github.com/KyleMayes/clang-sys",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/rust-mcp-sdk.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/rust-mcp-sdk",
+      "url": "https://github.com/meta-introspector/rust-mcp-sdk.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/magoo.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/magoo",
+      "url": "https://github.com/meta-introspector/magoo.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/ar_archive_writer": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/ar_archive_writer",
+      "url": "https://github.com/meta-introspector/ar_archive_writer",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/solfunmeme-dioxus.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/solfunmeme-dioxus",
+      "url": "https://github.com/meta-introspector/solfunmeme-dioxus.git",
+      "submodules": []
+    },
+    "https://github.com/AntonGepting/tmux-interface-rs": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/tmux_interface",
+      "url": "https://github.com/AntonGepting/tmux-interface-rs",
+      "submodules": []
+    },
+    "https://github.com/WebAssembly/wasi-threads": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/wasi_testsuite/wasi-threads",
+      "url": "https://github.com/WebAssembly/wasi-threads",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/meta-meme": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/meta-introspector/meta-meme",
+      "url": "https://github.com/meta-introspector/meta-meme",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/grok-cli.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/grok-cli",
+      "url": "https://github.com/meta-introspector/grok-cli.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/solfunmeme-dioxus": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/solfunmeme-dioxus",
+      "url": "https://github.com/meta-introspector/solfunmeme-dioxus",
+      "submodules": []
+    },
+    "https://github.com/getzola/zola.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola",
+      "url": "https://github.com/getzola/zola.git",
+      "submodules": [
+        {
+          "name": "sublime/syntaxes/AsciiDoc",
+          "path": "sublime/syntaxes/AsciiDoc",
+          "url": "https://github.com/SublimeText/AsciiDoc.git",
+          "branch": null
+        },
+        {
+          "name": "sublime/syntaxes/Docker.tmbundle",
+          "path": "components/config/sublime/syntaxes/extra/Docker.tmbundle",
+          "url": "https://github.com/asbjornenge/Docker.tmbundle.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Docker.tmbundle",
+            "url": "https://github.com/asbjornenge/Docker.tmbundle.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/GDScript-sublime",
+          "path": "components/config/sublime/syntaxes/extra/GDScript-sublime",
+          "url": "https://github.com/beefsack/GDScript-sublime.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/GDScript-sublime",
+            "url": "https://github.com/beefsack/GDScript-sublime.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/GraphQL-SublimeText3",
+          "path": "components/config/sublime/syntaxes/extra/GraphQL-SublimeText3",
+          "url": "https://github.com/dncrews/GraphQL-SublimeText3.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/GraphQL-SublimeText3",
+            "url": "https://github.com/dncrews/GraphQL-SublimeText3.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/Julia-sublime",
+          "path": "components/config/sublime/syntaxes/extra/Julia-sublime",
+          "url": "https://github.com/JuliaEditorSupport/Julia-sublime.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Julia-sublime",
+            "url": "https://github.com/JuliaEditorSupport/Julia-sublime.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/LESS-sublime",
+          "path": "components/config/sublime/syntaxes/extra/LESS-sublime",
+          "url": "https://github.com/danro/LESS-sublime.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/LESS-sublime",
+            "url": "https://github.com/danro/LESS-sublime.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/Packages",
+          "path": "components/config/sublime/syntaxes/Packages",
+          "url": "https://github.com/sublimehq/Packages.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/Packages",
+            "url": "https://github.com/sublimehq/Packages.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/Sublime-CMakeLists",
+          "path": "components/config/sublime/syntaxes/extra/Sublime-CMakeLists",
+          "url": "https://github.com/zyxar/Sublime-CMakeLists.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Sublime-CMakeLists",
+            "url": "https://github.com/zyxar/Sublime-CMakeLists.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/Sublime-GenericConfig",
+          "path": "components/config/sublime/syntaxes/extra/Sublime-GenericConfig",
+          "url": "https://github.com/skozlovf/Sublime-GenericConfig.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Sublime-GenericConfig",
+            "url": "https://github.com/skozlovf/Sublime-GenericConfig.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/Sublime-VimL",
+          "path": "sublime/syntaxes/Sublime-VimL",
+          "url": "https://github.com/SalGnt/Sublime-VimL.git",
+          "branch": null
+        },
+        {
+          "name": "sublime/syntaxes/SublimeElmLanguageSupport",
+          "path": "components/config/sublime/syntaxes/extra/SublimeElmLanguageSupport",
+          "url": "https://github.com/elm-community/SublimeElmLanguageSupport.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeElmLanguageSupport",
+            "url": "https://github.com/elm-community/SublimeElmLanguageSupport.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/SublimeFortran",
+          "path": "components/config/sublime/syntaxes/extra/SublimeFortran",
+          "url": "https://github.com/315234/SublimeFortran.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeFortran",
+            "url": "https://github.com/315234/SublimeFortran.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/SublimeSass",
+          "path": "components/config/sublime/syntaxes/extra/SublimeSass",
+          "url": "https://github.com/braver/SublimeSass.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeSass",
+            "url": "https://github.com/braver/SublimeSass.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/SublimeTextLinkerSyntax",
+          "path": "components/config/sublime/syntaxes/extra/SublimeTextLinkerSyntax",
+          "url": "https://github.com/jbw3/SublimeTextLinkerSyntax",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeTextLinkerSyntax",
+            "url": "https://github.com/jbw3/SublimeTextLinkerSyntax",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/awk-sublime",
+          "path": "components/config/sublime/syntaxes/extra/awk-sublime",
+          "url": "https://github.com/JohnNilsson/awk-sublime.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/awk-sublime",
+            "url": "https://github.com/JohnNilsson/awk-sublime.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/elixir-sublime-syntax",
+          "path": "components/config/sublime/syntaxes/extra/elixir-sublime-syntax",
+          "url": "https://github.com/princemaple/elixir-sublime-syntax.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/elixir-sublime-syntax",
+            "url": "https://github.com/princemaple/elixir-sublime-syntax.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/extra/protobuf-syntax-highlighting",
+          "path": "components/config/sublime/syntaxes/extra/protobuf-syntax-highlighting",
+          "url": "https://github.com/VcamX/protobuf-syntax-highlighting.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/protobuf-syntax-highlighting",
+            "url": "https://github.com/VcamX/protobuf-syntax-highlighting.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/extra/sublime-clojure",
+          "path": "components/config/sublime/syntaxes/extra/sublime-clojure",
+          "url": "https://github.com/tonsky/sublime-clojure.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-clojure",
+            "url": "https://github.com/tonsky/sublime-clojure.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/extra/sublime-zig-language",
+          "path": "components/config/sublime/syntaxes/extra/sublime-zig-language",
+          "url": "https://github.com/ziglang/sublime-zig-language.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-zig-language",
+            "url": "https://github.com/ziglang/sublime-zig-language.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/sublime-fish",
+          "path": "components/config/sublime/syntaxes/extra/sublime-fish",
+          "url": "https://github.com/Phidica/sublime-fish.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-fish",
+            "url": "https://github.com/Phidica/sublime-fish.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/sublime-glsl",
+          "path": "components/config/sublime/syntaxes/extra/sublime-glsl",
+          "url": "https://github.com/euler0/sublime-glsl.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-glsl",
+            "url": "https://github.com/euler0/sublime-glsl.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/sublime-jinja2",
+          "path": "components/config/sublime/syntaxes/extra/sublime-jinja2",
+          "url": "https://github.com/Martin819/sublime-jinja2.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-jinja2",
+            "url": "https://github.com/Martin819/sublime-jinja2.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/sublime-purescript-syntax",
+          "path": "components/config/sublime/syntaxes/extra/sublime-purescript-syntax",
+          "url": "https://github.com/tellnobody1/sublime-purescript-syntax.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-purescript-syntax",
+            "url": "https://github.com/tellnobody1/sublime-purescript-syntax.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/sublime_toml_highlighting",
+          "path": "components/config/sublime/syntaxes/extra/sublime_toml_highlighting",
+          "url": "https://github.com/jasonwilliams/sublime_toml_highlighting.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime_toml_highlighting",
+            "url": "https://github.com/jasonwilliams/sublime_toml_highlighting.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/sublimetext-fsharp",
+          "path": "components/config/sublime/syntaxes/extra/sublimetext-fsharp",
+          "url": "https://github.com/hoest/sublimetext-fsharp.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublimetext-fsharp",
+            "url": "https://github.com/hoest/sublimetext-fsharp.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "sublime/syntaxes/vue-syntax-highlight",
+          "path": "components/config/sublime/syntaxes/extra/vue-syntax-highlight",
+          "url": "https://github.com/vuejs/vue-syntax-highlight.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/vue-syntax-highlight",
+            "url": "https://github.com/vuejs/vue-syntax-highlight.git",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://github.com/mass10/r-google-oauth2/": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat/oauth_review/r-google-oauth2",
+      "url": "https://github.com/mass10/r-google-oauth2/",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/paiml-mcp-agent-toolkit.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/paiml-mcp-agent-toolkit",
+      "url": "https://github.com/meta-introspector/paiml-mcp-agent-toolkit.git",
+      "submodules": []
+    },
+    "https://github.com/JohnNilsson/awk-sublime.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/awk-sublime",
+      "url": "https://github.com/JohnNilsson/awk-sublime.git",
+      "submodules": []
+    },
+    "https://github.com/pemistahl/grex": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/grex",
+      "url": "https://github.com/pemistahl/grex",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/neo": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/neo",
+      "url": "https://github.com/meta-introspector/neo",
+      "submodules": []
+    },
+    "https://github.com/osa1/lexgen": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/lexgen",
+      "url": "https://github.com/osa1/lexgen",
+      "submodules": []
+    },
+    "https://github.com/jasonwilliams/sublime_toml_highlighting.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime_toml_highlighting",
+      "url": "https://github.com/jasonwilliams/sublime_toml_highlighting.git",
+      "submodules": []
+    },
+    "https://github.com/Martin819/sublime-jinja2.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-jinja2",
+      "url": "https://github.com/Martin819/sublime-jinja2.git",
+      "submodules": []
+    },
+    "https://github.com/apache/arrow-testing": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/arrow-rs/testing",
+      "url": "https://github.com/apache/arrow-testing",
+      "submodules": []
+    },
+    "https://github.com/apache/parquet-testing.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/arrow-rs/parquet-testing",
+      "url": "https://github.com/apache/parquet-testing.git",
+      "submodules": []
+    },
+    "https://github.com/bytecodealliance/wasmtime.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift",
+      "url": "https://github.com/bytecodealliance/wasmtime.git",
+      "submodules": [
+        {
+          "name": "tests/spec_testsuite",
+          "path": "tests/spec_testsuite",
+          "url": "https://github.com/WebAssembly/testsuite",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/spec_testsuite",
+            "url": "https://github.com/WebAssembly/testsuite",
+            "submodules": []
+          }
+        },
+        {
+          "name": "tests/wasi_testsuite/wasi-common",
+          "path": "tests/wasi_testsuite/wasi-common",
+          "url": "https://github.com/WebAssembly/wasi-testsuite.git",
+          "branch": "prod/testsuite-base",
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/wasi_testsuite/wasi-common",
+            "url": "https://github.com/WebAssembly/wasi-testsuite.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "tests/wasi_testsuite/wasi-threads",
+          "path": "tests/wasi_testsuite/wasi-threads",
+          "url": "https://github.com/WebAssembly/wasi-threads",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/wasi_testsuite/wasi-threads",
+            "url": "https://github.com/WebAssembly/wasi-threads",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://github.com/meta-introspector/copper": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/copper",
+      "url": "https://github.com/meta-introspector/copper",
+      "submodules": []
+    },
+    "https://github.com/skozlovf/Sublime-GenericConfig.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Sublime-GenericConfig",
+      "url": "https://github.com/skozlovf/Sublime-GenericConfig.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/meta-meme.wiki.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/meta-introspector/meta-meme.wiki",
+      "url": "https://github.com/meta-introspector/meta-meme.wiki.git",
+      "submodules": []
+    },
+    "https://github.com/tonsky/sublime-clojure.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-clojure",
+      "url": "https://github.com/tonsky/sublime-clojure.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/gitoxide.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/gitoxide",
+      "url": "https://github.com/meta-introspector/gitoxide.git",
+      "submodules": []
+    },
+    "https://github.com/apache/arrow-rs": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/arrow-rs",
+      "url": "https://github.com/apache/arrow-rs",
+      "submodules": [
+        {
+          "name": "parquet-testing",
+          "path": "parquet-testing",
+          "url": "https://github.com/apache/parquet-testing.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/arrow-rs/parquet-testing",
+            "url": "https://github.com/apache/parquet-testing.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "testing",
+          "path": "testing",
+          "url": "https://github.com/apache/arrow-testing",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/arrow-rs/testing",
+            "url": "https://github.com/apache/arrow-testing",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://github.com/WebAssembly/wasi-testsuite.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/wasi_testsuite/wasi-common",
+      "url": "https://github.com/WebAssembly/wasi-testsuite.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/bootstrap": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/bootstrap",
+      "url": "https://github.com/meta-introspector/bootstrap",
+      "submodules": []
+    },
+    "https://github.com/microsoft/monitors4codegen": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/time/2024/07/13/monitors4codegen",
+      "url": "https://github.com/microsoft/monitors4codegen",
+      "submodules": []
+    },
+    "https://github.com/XAMPPRocky/octocrab": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/octocrab",
+      "url": "https://github.com/XAMPPRocky/octocrab",
+      "submodules": []
+    },
+    "https://github.com/danro/LESS-sublime.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/LESS-sublime",
+      "url": "https://github.com/danro/LESS-sublime.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/git-submodule-tools.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/git-submodule-tools",
+      "url": "https://github.com/meta-introspector/git-submodule-tools.git",
+      "submodules": []
+    },
+    "https://github.com/Gecode/gecode": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/gecode",
+      "url": "https://github.com/Gecode/gecode",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/minizinc-introspector": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector",
+      "url": "https://github.com/meta-introspector/minizinc-introspector",
+      "submodules": [
+        {
+          "name": "minizinc_data/huggingface",
+          "path": "minizinc_data/huggingface",
+          "url": "https://huggingface.co/datasets/h4/libminizinc",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/minizinc_data/huggingface",
+            "url": "https://huggingface.co/datasets/h4/libminizinc",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/Ipopt",
+          "path": "vendor/Ipopt",
+          "url": "https://github.com/coin-or/Ipopt",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/Ipopt",
+            "url": "https://github.com/coin-or/Ipopt",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/act",
+          "path": "vendor/act",
+          "url": "https://github.com/nektos/act",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/act",
+            "url": "https://github.com/nektos/act",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/asciicast",
+          "path": "vendor/asciicast",
+          "url": "https://github.com/LegNeato/asciicast-rs.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/asciicast",
+            "url": "https://github.com/LegNeato/asciicast-rs.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/clang-rs",
+          "path": "vendor/clang-rs",
+          "url": "https://github.com/KyleMayes/clang-rs",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/clang-rs",
+            "url": "https://github.com/KyleMayes/clang-rs",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/clang-sys",
+          "path": "vendor/clang-sys",
+          "url": "https://github.com/KyleMayes/clang-sys",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/clang-sys",
+            "url": "https://github.com/KyleMayes/clang-sys",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/dum",
+          "path": "vendor/dum",
+          "url": "https://github.com/egoist/dum",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/dum",
+            "url": "https://github.com/egoist/dum",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/gecode",
+          "path": "vendor/gecode",
+          "url": "https://github.com/Gecode/gecode",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/gecode",
+            "url": "https://github.com/Gecode/gecode",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/grex",
+          "path": "vendor/grex",
+          "url": "https://github.com/pemistahl/grex",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/grex",
+            "url": "https://github.com/pemistahl/grex",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/hugging-face-dataset-validator-rust",
+          "path": "vendor/hugging-face-dataset-validator-rust",
+          "url": "https://github.com/meta-introspector/hugging-face-dataset-validator-rust",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/hugging-face-dataset-validator-rust",
+            "url": "https://github.com/meta-introspector/hugging-face-dataset-validator-rust",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/keyring",
+          "path": "vendor/keyring",
+          "url": "https://github.com/hwchen/keyring-rs",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/keyring",
+            "url": "https://github.com/hwchen/keyring-rs",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/lexgen",
+          "path": "vendor/lexgen",
+          "url": "https://github.com/osa1/lexgen",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/lexgen",
+            "url": "https://github.com/osa1/lexgen",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/libjq",
+          "path": "vendor/libjq",
+          "url": "https://github.com/jqlang/jq.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq",
+            "url": "https://github.com/jqlang/jq.git",
+            "submodules": [
+              {
+                "name": "vendor/oniguruma",
+                "path": "vendor/oniguruma",
+                "url": "https://github.com/kkos/oniguruma.git",
+                "branch": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "vendor/minizin-js",
+          "path": "vendor/minizin-js",
+          "url": "https://github.com/MiniZinc/minizinc-js",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/minizin-js",
+            "url": "https://github.com/MiniZinc/minizinc-js",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/minizinc-jll",
+          "path": "vendor/minizinc-jll",
+          "url": "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/minizinc-jll",
+            "url": "https://github.com/JuliaBinaryWrappers/MiniZinc_jll.jl",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/minizinc-python",
+          "path": "vendor/minizinc-python",
+          "url": "https://github.com/MiniZinc/minizinc-python",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/minizinc-python",
+            "url": "https://github.com/MiniZinc/minizinc-python",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/oauth2",
+          "path": "vendor/oauth2",
+          "url": "https://github.com/ramosbugs/oauth2-rs",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/oauth2",
+            "url": "https://github.com/ramosbugs/oauth2-rs",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/octocrab",
+          "path": "vendor/octocrab",
+          "url": "https://github.com/XAMPPRocky/octocrab.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/octocrab",
+            "url": "https://github.com/XAMPPRocky/octocrab.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/rust-code-analysis",
+          "path": "vendor/rust-code-analysis",
+          "url": "https://github.com/mozilla/rust-code-analysis.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis",
+            "url": "https://github.com/mozilla/rust-code-analysis.git",
+            "submodules": [
+              {
+                "name": "tests/repositories/DeepSpeech",
+                "path": "tests/repositories/DeepSpeech",
+                "url": "https://github.com/mozilla/DeepSpeech",
+                "branch": null
+              },
+              {
+                "name": "tests/repositories/pdf.js",
+                "path": "tests/repositories/pdf.js",
+                "url": "https://github.com/mozilla/pdf.js",
+                "branch": null
+              },
+              {
+                "name": "tests/repositories/rca-output",
+                "path": "tests/repositories/rca-output",
+                "url": "https://github.com/mozilla/rust-code-analysis-output",
+                "branch": null
+              },
+              {
+                "name": "tests/repositories/serde",
+                "path": "tests/repositories/serde",
+                "url": "https://github.com/serde-rs/serde",
+                "branch": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "vendor/rust-emojicons",
+          "path": "vendor/rust-emojicons",
+          "url": "https://github.com/jiri/rust-emojicons",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-emojicons",
+            "url": "https://github.com/jiri/rust-emojicons",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/solfunmeme-banner",
+          "path": "vendor/solfunmeme-banner",
+          "url": "https://github.com/meta-introspector/solfunmeme-banner.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/solfunmeme-banner",
+            "url": "https://github.com/meta-introspector/solfunmeme-banner.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/solfunmeme-dioxus",
+          "path": "vendor/solfunmeme-dioxus",
+          "url": "https://github.com/meta-introspector/solfunmeme-dioxus.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/solfunmeme-dioxus",
+            "url": "https://github.com/meta-introspector/solfunmeme-dioxus.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/tmux_interface",
+          "path": "vendor/tmux_interface",
+          "url": "https://github.com/AntonGepting/tmux-interface-rs",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/tmux_interface",
+            "url": "https://github.com/AntonGepting/tmux-interface-rs",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/tree-sitter",
+          "path": "vendor/tree-sitter",
+          "url": "https://github.com/tree-sitter/tree-sitter.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/tree-sitter",
+            "url": "https://github.com/tree-sitter/tree-sitter.git",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://github.com/meta-introspector/memkb-mcp-rust": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/memkb-mcp-rust",
+      "url": "https://github.com/meta-introspector/memkb-mcp-rust",
+      "submodules": []
+    },
+    "https://github.com/egoist/dum": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/dum",
+      "url": "https://github.com/egoist/dum",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/rmcp-agent.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/rmcp-agent",
+      "url": "https://github.com/meta-introspector/rmcp-agent.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/agentic": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/agentic",
+      "url": "https://github.com/meta-introspector/agentic",
+      "submodules": []
+    },
+    "https://github.com/nektos/act": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/act",
+      "url": "https://github.com/nektos/act",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/hugging-face-dataset-validator-rust": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/hugging-face-dataset-validator-rust",
+      "url": "https://github.com/meta-introspector/hugging-face-dataset-validator-rust",
+      "submodules": []
+    },
+    "https://github.com/jbw3/SublimeTextLinkerSyntax": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeTextLinkerSyntax",
+      "url": "https://github.com/jbw3/SublimeTextLinkerSyntax",
+      "submodules": []
+    },
+    "https://github.com/hoest/sublimetext-fsharp.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublimetext-fsharp",
+      "url": "https://github.com/hoest/sublimetext-fsharp.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/solfunmeme-banner.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/solfunmeme-banner",
+      "url": "https://github.com/meta-introspector/solfunmeme-banner.git",
+      "submodules": []
+    },
+    "https://github.com/MiniZinc/minizinc-js": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/minizin-js",
+      "url": "https://github.com/MiniZinc/minizinc-js",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/quasi-meta-meme": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/quasi-meta-meme",
+      "url": "https://github.com/meta-introspector/quasi-meta-meme",
+      "submodules": []
+    },
+    "https://github.com/vuejs/vue-syntax-highlight.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/vue-syntax-highlight",
+      "url": "https://github.com/vuejs/vue-syntax-highlight.git",
+      "submodules": []
+    },
+    "https://github.com/mozilla/rust-code-analysis.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis",
+      "url": "https://github.com/mozilla/rust-code-analysis.git",
+      "submodules": [
+        {
+          "name": "tests/repositories/DeepSpeech",
+          "path": "tests/repositories/DeepSpeech",
+          "url": "https://github.com/mozilla/DeepSpeech",
+          "branch": null
+        },
+        {
+          "name": "tests/repositories/pdf.js",
+          "path": "tests/repositories/pdf.js",
+          "url": "https://github.com/mozilla/pdf.js",
+          "branch": null
+        },
+        {
+          "name": "tests/repositories/rca-output",
+          "path": "tests/repositories/rca-output",
+          "url": "https://github.com/mozilla/rust-code-analysis-output",
+          "branch": null
+        },
+        {
+          "name": "tests/repositories/serde",
+          "path": "tests/repositories/serde",
+          "url": "https://github.com/serde-rs/serde",
+          "branch": null
+        }
+      ]
+    },
+    "https://github.com/meta-introspector/hackathon": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/hackathon",
+      "url": "https://github.com/meta-introspector/hackathon",
+      "submodules": []
+    },
+    "https://github.com/MiniZinc/minizinc-python": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/minizinc-python",
+      "url": "https://github.com/MiniZinc/minizinc-python",
+      "submodules": []
+    },
+    "https://github.com/zyxar/Sublime-CMakeLists.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Sublime-CMakeLists",
+      "url": "https://github.com/zyxar/Sublime-CMakeLists.git",
+      "submodules": []
+    },
+    "https://github.com/WebAssembly/testsuite": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/cranelift/tests/spec_testsuite",
+      "url": "https://github.com/WebAssembly/testsuite",
+      "submodules": []
+    },
+    "https://github.com/tokio-rs/tracing.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/vendor/tracing-vendor/tracing",
+      "url": "https://github.com/tokio-rs/tracing.git",
+      "submodules": []
+    },
+    "https://github.com/ziglang/sublime-zig-language.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-zig-language",
+      "url": "https://github.com/ziglang/sublime-zig-language.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/mcp-attr.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/mcp-attr",
+      "url": "https://github.com/meta-introspector/mcp-attr.git",
+      "submodules": [
+        {
+          "name": "external/modelcontextprotocol-specification",
+          "path": "external/modelcontextprotocol-specification",
+          "url": "https://github.com/modelcontextprotocol/specification.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/mcp-attr/external/modelcontextprotocol-specification",
+            "url": "https://github.com/modelcontextprotocol/specification.git",
+            "submodules": []
+          }
+        }
+      ]
+    },
+    "https://github.com/sublimehq/Packages.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/Packages",
+      "url": "https://github.com/sublimehq/Packages.git",
+      "submodules": []
+    },
+    "https://github.com/princemaple/elixir-sublime-syntax.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/elixir-sublime-syntax",
+      "url": "https://github.com/princemaple/elixir-sublime-syntax.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/simd-kernels.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/simd-kernels",
+      "url": "https://github.com/meta-introspector/simd-kernels.git",
+      "submodules": []
+    },
+    "https://github.com/KyleMayes/clang-rs": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/clang-rs",
+      "url": "https://github.com/KyleMayes/clang-rs",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/ramparts.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/ramparts",
+      "url": "https://github.com/meta-introspector/ramparts.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/abi_stable_crates": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/abi_stable_crates",
+      "url": "https://github.com/meta-introspector/abi_stable_crates",
+      "submodules": []
+    },
+    "https://github.com/rust-math/intel-mkl-src": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/intel-mkl-src",
+      "url": "https://github.com/rust-math/intel-mkl-src",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/monomcp-rust": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust",
+      "url": "https://github.com/meta-introspector/monomcp-rust",
+      "submodules": []
+    },
+    "https://github.com/GitoxideLabs/gitoxide": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/gitoxide",
+      "url": "https://github.com/GitoxideLabs/gitoxide",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/git-submodule-tools-rs.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs",
+      "url": "https://github.com/meta-introspector/git-submodule-tools-rs.git",
+      "submodules": [
+        {
+          "name": "vendor/GitoxideLabs/gitoxide",
+          "path": "vendor/GitoxideLabs/gitoxide",
+          "url": "https://github.com/GitoxideLabs/gitoxide",
+          "branch": null
+        },
+        {
+          "name": "vendor/XAMPPRocky/octocrab",
+          "path": "vendor/XAMPPRocky/octocrab",
+          "url": "https://github.com/XAMPPRocky/octocrab",
+          "branch": null
+        },
+        {
+          "name": "vendor/cargo_metadata",
+          "path": "vendor/cargo_metadata",
+          "url": "https://github.com/oli-obk/cargo_metadata",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/cargo_metadata",
+            "url": "https://github.com/oli-obk/cargo_metadata",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/gitoxide",
+          "path": "vendor/gitoxide",
+          "url": "https://github.com/GitoxideLabs/gitoxide",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/gitoxide",
+            "url": "https://github.com/GitoxideLabs/gitoxide",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/meta-introspector/meta-meme",
+          "path": "vendor/meta-introspector/meta-meme",
+          "url": "https://github.com/meta-introspector/meta-meme",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/meta-introspector/meta-meme",
+            "url": "https://github.com/meta-introspector/meta-meme",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/meta-introspector/meta-meme.wiki",
+          "path": "vendor/meta-introspector/meta-meme.wiki",
+          "url": "https://github.com/meta-introspector/meta-meme.wiki.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/meta-introspector/meta-meme.wiki",
+            "url": "https://github.com/meta-introspector/meta-meme.wiki.git",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/octocrab",
+          "path": "vendor/octocrab",
+          "url": "https://github.com/XAMPPRocky/octocrab",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/octocrab",
+            "url": "https://github.com/XAMPPRocky/octocrab",
+            "submodules": []
+          }
+        },
+        {
+          "name": "vendor/oli-obk/cargo_metadata",
+          "path": "vendor/oli-obk/cargo_metadata",
+          "url": "https://github.com/oli-obk/cargo_metadata",
+          "branch": null
+        },
+        {
+          "name": "vendor/zola",
+          "path": "vendor/zola",
+          "url": "https://github.com/getzola/zola.git",
+          "branch": null,
+          "nested_repo": {
+            "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola",
+            "url": "https://github.com/getzola/zola.git",
+            "submodules": [
+              {
+                "name": "sublime/syntaxes/AsciiDoc",
+                "path": "sublime/syntaxes/AsciiDoc",
+                "url": "https://github.com/SublimeText/AsciiDoc.git",
+                "branch": null
+              },
+              {
+                "name": "sublime/syntaxes/Docker.tmbundle",
+                "path": "components/config/sublime/syntaxes/extra/Docker.tmbundle",
+                "url": "https://github.com/asbjornenge/Docker.tmbundle.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Docker.tmbundle",
+                  "url": "https://github.com/asbjornenge/Docker.tmbundle.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/GDScript-sublime",
+                "path": "components/config/sublime/syntaxes/extra/GDScript-sublime",
+                "url": "https://github.com/beefsack/GDScript-sublime.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/GDScript-sublime",
+                  "url": "https://github.com/beefsack/GDScript-sublime.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/GraphQL-SublimeText3",
+                "path": "components/config/sublime/syntaxes/extra/GraphQL-SublimeText3",
+                "url": "https://github.com/dncrews/GraphQL-SublimeText3.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/GraphQL-SublimeText3",
+                  "url": "https://github.com/dncrews/GraphQL-SublimeText3.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/Julia-sublime",
+                "path": "components/config/sublime/syntaxes/extra/Julia-sublime",
+                "url": "https://github.com/JuliaEditorSupport/Julia-sublime.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Julia-sublime",
+                  "url": "https://github.com/JuliaEditorSupport/Julia-sublime.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/LESS-sublime",
+                "path": "components/config/sublime/syntaxes/extra/LESS-sublime",
+                "url": "https://github.com/danro/LESS-sublime.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/LESS-sublime",
+                  "url": "https://github.com/danro/LESS-sublime.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/Packages",
+                "path": "components/config/sublime/syntaxes/Packages",
+                "url": "https://github.com/sublimehq/Packages.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/Packages",
+                  "url": "https://github.com/sublimehq/Packages.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/Sublime-CMakeLists",
+                "path": "components/config/sublime/syntaxes/extra/Sublime-CMakeLists",
+                "url": "https://github.com/zyxar/Sublime-CMakeLists.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Sublime-CMakeLists",
+                  "url": "https://github.com/zyxar/Sublime-CMakeLists.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/Sublime-GenericConfig",
+                "path": "components/config/sublime/syntaxes/extra/Sublime-GenericConfig",
+                "url": "https://github.com/skozlovf/Sublime-GenericConfig.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Sublime-GenericConfig",
+                  "url": "https://github.com/skozlovf/Sublime-GenericConfig.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/Sublime-VimL",
+                "path": "sublime/syntaxes/Sublime-VimL",
+                "url": "https://github.com/SalGnt/Sublime-VimL.git",
+                "branch": null
+              },
+              {
+                "name": "sublime/syntaxes/SublimeElmLanguageSupport",
+                "path": "components/config/sublime/syntaxes/extra/SublimeElmLanguageSupport",
+                "url": "https://github.com/elm-community/SublimeElmLanguageSupport.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeElmLanguageSupport",
+                  "url": "https://github.com/elm-community/SublimeElmLanguageSupport.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/SublimeFortran",
+                "path": "components/config/sublime/syntaxes/extra/SublimeFortran",
+                "url": "https://github.com/315234/SublimeFortran.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeFortran",
+                  "url": "https://github.com/315234/SublimeFortran.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/SublimeSass",
+                "path": "components/config/sublime/syntaxes/extra/SublimeSass",
+                "url": "https://github.com/braver/SublimeSass.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeSass",
+                  "url": "https://github.com/braver/SublimeSass.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/SublimeTextLinkerSyntax",
+                "path": "components/config/sublime/syntaxes/extra/SublimeTextLinkerSyntax",
+                "url": "https://github.com/jbw3/SublimeTextLinkerSyntax",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/SublimeTextLinkerSyntax",
+                  "url": "https://github.com/jbw3/SublimeTextLinkerSyntax",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/awk-sublime",
+                "path": "components/config/sublime/syntaxes/extra/awk-sublime",
+                "url": "https://github.com/JohnNilsson/awk-sublime.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/awk-sublime",
+                  "url": "https://github.com/JohnNilsson/awk-sublime.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/elixir-sublime-syntax",
+                "path": "components/config/sublime/syntaxes/extra/elixir-sublime-syntax",
+                "url": "https://github.com/princemaple/elixir-sublime-syntax.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/elixir-sublime-syntax",
+                  "url": "https://github.com/princemaple/elixir-sublime-syntax.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/extra/protobuf-syntax-highlighting",
+                "path": "components/config/sublime/syntaxes/extra/protobuf-syntax-highlighting",
+                "url": "https://github.com/VcamX/protobuf-syntax-highlighting.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/protobuf-syntax-highlighting",
+                  "url": "https://github.com/VcamX/protobuf-syntax-highlighting.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/extra/sublime-clojure",
+                "path": "components/config/sublime/syntaxes/extra/sublime-clojure",
+                "url": "https://github.com/tonsky/sublime-clojure.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-clojure",
+                  "url": "https://github.com/tonsky/sublime-clojure.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/extra/sublime-zig-language",
+                "path": "components/config/sublime/syntaxes/extra/sublime-zig-language",
+                "url": "https://github.com/ziglang/sublime-zig-language.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-zig-language",
+                  "url": "https://github.com/ziglang/sublime-zig-language.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/sublime-fish",
+                "path": "components/config/sublime/syntaxes/extra/sublime-fish",
+                "url": "https://github.com/Phidica/sublime-fish.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-fish",
+                  "url": "https://github.com/Phidica/sublime-fish.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/sublime-glsl",
+                "path": "components/config/sublime/syntaxes/extra/sublime-glsl",
+                "url": "https://github.com/euler0/sublime-glsl.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-glsl",
+                  "url": "https://github.com/euler0/sublime-glsl.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/sublime-jinja2",
+                "path": "components/config/sublime/syntaxes/extra/sublime-jinja2",
+                "url": "https://github.com/Martin819/sublime-jinja2.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-jinja2",
+                  "url": "https://github.com/Martin819/sublime-jinja2.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/sublime-purescript-syntax",
+                "path": "components/config/sublime/syntaxes/extra/sublime-purescript-syntax",
+                "url": "https://github.com/tellnobody1/sublime-purescript-syntax.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime-purescript-syntax",
+                  "url": "https://github.com/tellnobody1/sublime-purescript-syntax.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/sublime_toml_highlighting",
+                "path": "components/config/sublime/syntaxes/extra/sublime_toml_highlighting",
+                "url": "https://github.com/jasonwilliams/sublime_toml_highlighting.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublime_toml_highlighting",
+                  "url": "https://github.com/jasonwilliams/sublime_toml_highlighting.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/sublimetext-fsharp",
+                "path": "components/config/sublime/syntaxes/extra/sublimetext-fsharp",
+                "url": "https://github.com/hoest/sublimetext-fsharp.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/sublimetext-fsharp",
+                  "url": "https://github.com/hoest/sublimetext-fsharp.git",
+                  "submodules": []
+                }
+              },
+              {
+                "name": "sublime/syntaxes/vue-syntax-highlight",
+                "path": "components/config/sublime/syntaxes/extra/vue-syntax-highlight",
+                "url": "https://github.com/vuejs/vue-syntax-highlight.git",
+                "branch": null,
+                "nested_repo": {
+                  "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/vue-syntax-highlight",
+                  "url": "https://github.com/vuejs/vue-syntax-highlight.git",
+                  "submodules": []
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "https://github.com/jiri/rust-emojicons": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-emojicons",
+      "url": "https://github.com/jiri/rust-emojicons",
+      "submodules": []
+    },
+    "https://github.com/emacsmirror/lsp-scheme": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/time/2024/07/13/emacs-lsp-scheme",
+      "url": "https://github.com/emacsmirror/lsp-scheme",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/gen-mod-form": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/generative_modular_forms",
+      "url": "https://github.com/meta-introspector/gen-mod-form",
+      "submodules": []
+    },
+    "https://github.com/coin-or/Ipopt": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/Ipopt",
+      "url": "https://github.com/coin-or/Ipopt",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/naersk.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/naersk",
+      "url": "https://github.com/meta-introspector/naersk.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/rs-gapi-oauth": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/aichat/oauth_review/rs-gapi-oauth",
+      "url": "https://github.com/meta-introspector/rs-gapi-oauth",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/MoCoPr.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/MoCoPr",
+      "url": "https://github.com/meta-introspector/MoCoPr.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/ragit.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/ragit",
+      "url": "https://github.com/meta-introspector/ragit.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/time/": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/time",
+      "url": "https://github.com/meta-introspector/time/",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/simd-kernels": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/simd-kernels",
+      "url": "https://github.com/meta-introspector/simd-kernels",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/mcp-discovery.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/mcp-discovery",
+      "url": "https://github.com/meta-introspector/mcp-discovery.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/submod.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/submodules/submod",
+      "url": "https://github.com/meta-introspector/submod.git",
+      "submodules": []
+    },
+    "https://github.com/asbjornenge/Docker.tmbundle.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/git-submodule-tools-rs/vendor/zola/components/config/sublime/syntaxes/extra/Docker.tmbundle",
+      "url": "https://github.com/asbjornenge/Docker.tmbundle.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/turbomcp": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/turbomcp",
+      "url": "https://github.com/meta-introspector/turbomcp",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/lean4": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lean4",
+      "url": "https://github.com/meta-introspector/lean4",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/rust-mcp-filesystem.git": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/monomcp-rust/monomcp/rust-mcp-filesystem",
+      "url": "https://github.com/meta-introspector/rust-mcp-filesystem.git",
+      "submodules": []
+    },
+    "https://github.com/meta-introspector/rustc-stable-hash": {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/lattice-introspector/vendor/rustc-stable-hash",
+      "url": "https://github.com/meta-introspector/rustc-stable-hash",
+      "submodules": []
+    }
+  },
+  "failed_repositories": [
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/2025",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/2025: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/2025'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/elizaos-plugins/plugin-twitter",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/elizaos-plugins/plugin-twitter: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/elizaos-plugins/plugin-twitter'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/livestream-tiktok-plugin",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/livestream-tiktok-plugin: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/livestream-tiktok-plugin'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/twitter-plugin",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/twitter-plugin: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/streamofrandom/vendor/twitter-plugin'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq/vendor/oniguruma",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq/vendor/oniguruma: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq/vendor/oniguruma'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/DeepSpeech",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/DeepSpeech: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/DeepSpeech'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/pdf.js",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/pdf.js: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/pdf.js'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/rca-output",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/rca-output: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/rca-output'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/serde",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/serde: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/serde'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq/vendor/oniguruma",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq/vendor/oniguruma: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/libjq/vendor/oniguruma'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/DeepSpeech",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/DeepSpeech: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/DeepSpeech'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/pdf.js",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/pdf.js: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/pdf.js'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/rca-output",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/rca-output: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/rca-output'; class=Repository (6); code=NotFound (-3)"
+    },
+    {
+      "path": "/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/serde",
+      "error": "Error opening repository /data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/serde: could not find repository at '/data/data/com.termux.nix/files/home/pick-up-nix/source/github/meta-introspector/minizinc-introspector/vendor/rust-code-analysis/tests/repositories/serde'; class=Repository (6); code=NotFound (-3)"
+    }
+  ]
+}

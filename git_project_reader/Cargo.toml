@@ -1,0 +1,15 @@
+[package]
+name = "git-project-reader"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "git_project_reader"
+path = "src/lib.rs"
+
+[dependencies]
+git2 = "0.19" # For Git repository interaction
+walkdir = "2.5" # For directory traversal
+
+[dev-dependencies]
+tempfile = "3.22.0"

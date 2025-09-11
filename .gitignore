@@ -1,5 +1,9 @@
-
 # Generated files
 dummy_git_config.txt
 git_history.json
 target/
+.git_commit_message.txt
+result
+result/
+submodule_collector_strace.log
+*~

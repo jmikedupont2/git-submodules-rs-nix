@@ -1,4 +1,3 @@
-
 {
   description = "A flake for testing git submodules";
 
@@ -108,6 +107,22 @@
               cp -r $src/magoo $out/magoo
               cp -r $src/git-submodule-tools $out/git-submodule-tools
             '';
+
+            submodule-collector = pkgs.stdenv.mkDerivation {
+              pname = "submodule-collector";
+              version = "0.1.0"; # Matches Cargo.toml
+              src = ./.; # Source is the entire project root (workspace root)
+              buildInputs = [ toolchain pkgs.cargo pkgs.pkg-config pkgs.openssl ]; # Add pkg-config and openssl
+              buildPhase = ''
+                export CARGO_HOME=$TMPDIR/.cargo
+                echo "Building submodule-collector..."
+                cargo build --release --package submodule-collector
+              '';
+              installPhase = ''
+                mkdir -p $out/bin
+                cp target/release/submodule-collector $out/bin/
+              '';
+            };
           };
 
           devShell = pkgs.mkShell {
@@ -117,6 +132,21 @@
               pkgs.pkg-config
               pkgs.openssl
               pkgs.cargo # Explicitly add cargo
+              pkgs.jq # Add jq here
+              pkgs.valgrind # Add valgrind for profiling
+              pkgs.emacsPackages.magit
+              pkgs.emacsPackages.rustic
+              pkgs.emacsPackages.cargo-mode
+              pkgs.emacsPackages.rust-mode
+              pkgs.emacsPackages.lsp-mode
+              pkgs.emacsPackages.company
+              pkgs.emacsPackages.flycheck
+              pkgs.emacsPackages.lsp-ui
+              pkgs.emacsPackages.dap-mode
+              pkgs.emacsPackages.tuareg
+              #pkgs.emacsPackages.merlin-mode
+              #pkgs.emacsPackages.dune-mode
+              pkgs.emacsPackages.utop
             ];
             # Optionally, add environment variables needed for development
             # shellHook = ''

@@ -1,0 +1,1 @@
+impl HasValueCount for bool { fn value_count () -> u8 { 2 } }

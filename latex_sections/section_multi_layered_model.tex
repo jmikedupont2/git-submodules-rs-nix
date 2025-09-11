@@ -1,0 +1,11 @@
+\section{Multi-Layered Model: Generalization to k-Value Types}
+The framework extends beyond binary (2-value) instances to a multi-layered model, where each layer is defined by a fundamental unit with $k$ possible values. For each prime $p_i \in \mathcal{P}$, we can define a corresponding layer where the fundamental unit has $p_i$ values. This creates a hierarchy of layers, each offering a different granularity of analysis.
+
+For example:
+\begin{itemize}
+    \item \textbf{Layer 1 (2-Value Type):} The base layer, where the fundamental unit is a bit (2 values). Instances in this layer are formed by combinations of these bits, as described in the previous section.
+    \item \textbf{Layer 2 (3-Value Type):} In this layer, the fundamental unit has 3 possible values. Instances are then constructed as n-grams (pairs, triples, etc.) of these 3-value units, with 'n' determined by the primes in $\mathcal{P}$. For example, for $p_1=2$, we would consider pairs of 3-value units; for $p_2=3$, triples of 3-value units, and so on.
+    \item $\ldots$
+    \item \textbf{Layer 8 (19-Value Type):} The highest layer, where the fundamental unit has 19 possible values. Instances are formed as n-grams of these 19-value units.
+\end{itemize}
+This multi-layered structure, combined with the n-gram topologies within each layer, forms a "lattice of complexity layer by layer." This allows for a comprehensive and rapidly enumerable exploration of models across various levels of abstraction and value granularity.
