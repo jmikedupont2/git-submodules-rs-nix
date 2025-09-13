@@ -1,0 +1,8 @@
+{
+  "agent_name": "CodeRabbit AI",
+  "limits": {
+    "max_files_for_review": 100,
+    "max_skipped_percentage": 25
+  },
+  "notes": "Review skipped if more than max_skipped_percentage of files are skipped due to max_files_for_review limit."
+}

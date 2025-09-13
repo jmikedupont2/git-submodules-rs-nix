@@ -1,0 +1,13 @@
+[package]
+name = "web_spider_corpus_builder"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12", features = ["blocking", "json"] }
+tokio = { version = "1", features = ["full"] }
+scraper = "0.19"
+url = "2.5"
+sanitize-filename = "0.5"
+clap = { version = "4", features = ["derive"] }
+regex = "1.11.2"

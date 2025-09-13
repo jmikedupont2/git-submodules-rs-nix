@@ -2,7 +2,7 @@ use clap::Parser;
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::fs;
-use std::io::{self, Read};
+use std::io::{self};
 use std::path::PathBuf;
 
 #[derive(Parser, Debug)]
@@ -125,4 +125,134 @@ fn main() -> io::Result<()> {
     println!("{}", json_output);
 
     Ok(())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_parse_git_config_empty() {
+        let content = "";
+        let config = parse_git_config(content);
+        assert!(config.sections.is_empty());
+    }
+
+    #[test]
+    fn test_parse_git_config_only_sections() {
+        let content = "[core]\n[remote \"origin\"]";
+        let config = parse_git_config(content);
+        assert!(config.sections.contains_key("core"));
+        assert!(config.sections.contains_key("remote \"origin\""));
+        assert!(config.sections["core"].is_empty());
+        assert!(config.sections["remote \"origin\""].is_empty());
+    }
+
+    #[test]
+    fn test_parse_git_config_with_comments_and_empty_lines() {
+        let content = r###"# This is a comment
+[core]
+    repositoryformatversion = 0
+
+# Another comment
+[user]
+    name = John Doe
+    email = john.doe@example.com
+"###;
+        let config = parse_git_config(content);
+
+        assert!(config.sections.contains_key("core"));
+        assert_eq!(config.sections["core"]["repositoryformatversion"], "0");
+
+        assert!(config.sections.contains_key("user"));
+        assert_eq!(config.sections["user"]["name"], "John Doe");
+        assert_eq!(config.sections["user"]["email"], "john.doe@example.com");
+    }
+
+    #[test]
+    fn test_parse_git_config_multiple_sections() {
+        let content = r###"[section1]
+    key1 = value1
+    key2 = value2
+[section2]
+    keyA = valueA
+[section3]
+    keyB = valueB
+    keyC = valueC
+"###;
+        let config = parse_git_config(content);
+
+        assert_eq!(config.sections.len(), 3);
+
+        assert_eq!(config.sections["section1"]["key1"], "value1");
+        assert_eq!(config.sections["section1"]["key2"], "value2");
+
+        assert_eq!(config.sections["section2"]["keyA"], "valueA");
+
+        assert_eq!(config.sections["section3"]["keyB"], "valueB");
+        assert_eq!(config.sections["section3"]["keyC"], "valueC");
+    }
+
+    #[test]
+    fn test_parse_git_config_basic() {
+        let content = r###"[core]
+    repositoryformatversion = 0
+[remote "origin"]
+    url = https://github.com/example/repo.git
+    fetch = +refs/heads/*:refs/remotes/origin/*"###;
+        let config = parse_git_config(content);
+
+        assert!(config.sections.contains_key("core"));
+        assert_eq!(config.sections["core"]["repositoryformatversion"], "0");
+
+        assert!(config.sections.contains_key("remote \"origin\""));
+        assert_eq!(config.sections["remote \"origin\""]["url"], "https://github.com/example/repo.git");
+        assert_eq!(config.sections["remote \"origin\""]["fetch"], "+refs/heads/*:refs/remotes/origin/*");
+    }
+
+    #[test]
+    fn test_parse_git_modules_empty() {
+        let content = "";
+        let modules = parse_git_modules(content);
+        assert!(modules.submodule.is_empty());
+    }
+
+    #[test]
+    fn test_parse_git_modules_single_submodule() {
+        let content = String::from("[submodule \"sub1\"]\n    path = path/to/sub1\n    url = https://github.com/example/sub1.git\n");
+        let modules = parse_git_modules(&content);
+        assert!(modules.submodule.contains_key("sub1"));
+        let sub1 = &modules.submodule["sub1"];
+        assert_eq!(sub1.path, "path/to/sub1");
+        assert_eq!(sub1.url, "https://github.com/example/sub1.git");
+        assert!(sub1.branch.is_none());
+    }
+
+    #[test]
+    fn test_parse_git_modules_multiple_submodules() {
+        let content = String::from("[submodule \"sub1\"]\n    path = path/to/sub1\n    url = https://github.com/example/sub1.git\n[submodule \"sub2\"]\n    path = path/to/sub2\n    url = https://github.com/example/sub2.git\n    branch = main\n");
+        let modules = parse_git_modules(&content);
+        assert_eq!(modules.submodule.len(), 2);
+
+        let sub1 = &modules.submodule["sub1"];
+        assert_eq!(sub1.path, "path/to/sub1");
+        assert_eq!(sub1.url, "https://github.com/example/sub1.git");
+        assert!(sub1.branch.is_none());
+
+        let sub2 = &modules.submodule["sub2"];
+        assert_eq!(sub2.path, "path/to/sub2");
+        assert_eq!(sub2.url, "https://github.com/example/sub2.git");
+        assert_eq!(sub2.branch, Some("main".to_string()));
+    }
+
+    #[test]
+    fn test_parse_git_modules_with_branch() {
+        let content = String::from("[submodule \"sub3\"]\n    path = path/to/sub3\n    url = https://github.com/example/sub3.git\n    branch = dev\n");
+        let modules = parse_git_modules(&content);
+        assert!(modules.submodule.contains_key("sub3"));
+        let sub3 = &modules.submodule["sub3"];
+        assert_eq!(sub3.path, "path/to/sub3");
+        assert_eq!(sub3.url, "https://github.com/example/sub3.git");
+        assert_eq!(sub3.branch, Some("dev".to_string()));
+    }
 }

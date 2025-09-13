@@ -1,0 +1,17 @@
+\section{Instances and Algebraic Composition}
+The smallest fundamental unit in this framework is a single bit, representing 2 distinct values. Our fundamental units of analysis are \textit{instances}. Each instance is characterized as a number of a specific bit size, $N_{bits}$. This bit size is directly given by the corresponding prime $p_i$ from the sequence $\mathcal{P}$. For example, the first instance, corresponding to $p_1=2$, has 2 bits, effectively representing a truth table. We have 8 instances, $I_1, I_2, \ldots, I_8$, where each $I_k$ is a number whose bit size is $p_k$. This creates an indexed hierarchy of instances:
+\begin{itemize}
+    
+The fundamental bit (2 values) serves as the base.
+    
+The first instance ($I_1$) corresponds to $p_1=2$, representing a 2-bit model with $2^2=4$ possibilities (a truth table).
+    
+The second instance ($I_2$) corresponds to $p_2=3$, representing a 3-bit model with $2^3=8$ possibilities.
+    
+    ... 
+    
+The eighth instance ($I_8$) corresponds to $p_8=19$, representing a 19-bit model with $2^{19}$ possibilities.
+\end{itemize}
+This systematic enumeration of instances by increasing bit size, directly tied to the prime sequence, forms a "lattice of sizes," providing a structured and scalable framework for analysis.
+
+Furthermore, each instance $I_k$ is not merely a value, but a formula that expresses its \textit{algebraic composition}. This implies that instances have an internal structure that can be decomposed and analyzed algebraically.

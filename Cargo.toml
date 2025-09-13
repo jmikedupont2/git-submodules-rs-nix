@@ -1,5 +1,5 @@
 [workspace]
-members = ["."]
+members = [".", "git_test_repo", "lattice_code_generator", "lattice_generator_app", "lattice_structure_generator", "project_file_lattice_builder", "report-analyzer-rs", "submodule-collector", "git_project_reader"]
 
 [package]
 name = "submodules"
@@ -13,7 +13,16 @@ serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 toml = "0.8"
 clap = { version = "4.0", features = ["derive"] } # For command-line argument parsing
+walkdir = "2.5"
+
+[dev-dependencies]
+iai-callgrind = "0.8"
 
 [[bin]]
 name = "git-config-parser"
 path = "src/bin/git-config-parser.rs"
+
+[[bench]]
+name = "my_profiling_bench"
+path = "benches/my_profiling_bench.rs"
+harness = false

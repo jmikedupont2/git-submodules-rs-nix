@@ -1,3 +1,0 @@
-fix: Generate and commit Cargo.lock, update Cargo.toml for workspace
-
-This commit generates the Cargo.lock file and updates Cargo.toml to define the project as a workspace. This resolves the Naersk build error related to missing Cargo.lock.

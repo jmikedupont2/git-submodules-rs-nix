@@ -1,0 +1,1 @@
+pub trait HasValueCount { fn value_count () -> u8 ; }
